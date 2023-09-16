@@ -1628,3 +1628,16 @@ button, a { transition: var(--transition); }
   .footer-link-box { flex-basis: 700px; }
 
 }
+
+
+
+
+
+  .logo1 img {
+    margin-top: -29px;
+    margin-bottom: -27px;
+    width: 100px;
+    height: 86px;
+    /* z-index: 2; */
+    /* overflow: visible;*/
+}
