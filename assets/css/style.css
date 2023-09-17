@@ -1126,14 +1126,14 @@ button, a { transition: var(--transition); }
  * responsive for larger than 600px screen
  */
 
- /* @media (min-width: 602) {
+ /* @media (min-width: 767px) {
   .whatsapp-icon img {
     bottom: 80px;
   }
   
 } */
 
-@media (max-width: 599px) {
+@media (max-width: 767px) {
   .whatsapp-icon img {
     bottom: 71px;
   }
@@ -1203,9 +1203,9 @@ button, a { transition: var(--transition); }
 
   .cta-card { --fs-2: 1.5rem; }
 
-  .whatsapp-icon img {
+  /* .whatsapp-icon img {
     bottom: 80px;
-  }
+  } */
 
 
 
