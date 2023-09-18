@@ -485,13 +485,13 @@ button, a { transition: var(--transition); }
   width: 100%;
 }
 
-.about-banner .abs-img {
+/* .about-banner .abs-img {
   position: absolute;
   bottom: 100px;
   left: 15px;
   width: 50%;
   border-radius: 4px;
-}
+} */
 
 .about .section-subtitle { margin-inline: 0; }
 
